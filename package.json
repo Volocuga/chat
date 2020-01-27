@@ -14,7 +14,7 @@
     "config": "^3.2.3",
     "express": "^4.17.1",
     "http": "^0.0.0",
-    "mongoose": "^5.7.4",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "socket.io": "^2.3.0"
   },
