@@ -1,0 +1,33 @@
+.root {
+  height: 300px;
+  width: 50%;
+  border-radius: 5px;
+  overflow-y: scroll;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.messageRow {
+  margin: 5px 0;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-button {
+  width: 0;
+  height: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e1e1e1;
+  border: 0 none #ffffff;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-track {
+  border: 0 none #ffffff;
+  border-radius: 39px;
+}
